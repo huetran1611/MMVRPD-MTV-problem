@@ -1,0 +1,13 @@
+Dataset Description: 
+
+Coordinate Unit: All customer and depot coordinates are expressed in meters (m).
+Demand Unit: Customer demand values are expressed in kilograms (kg).
+Vehicle Configurations
+Truck:
+    Maximum speed: 15.6464 m/s (~35 miles/hour)
+    Capacity: 1400 kg
+
+Drone:
+    Capacity: 2.27 kg
+    Fixed service time: 700 seconds
+    Speed: 31.2928 m/s (~70 miles/hour)
